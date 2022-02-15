@@ -49,3 +49,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-plain.svg" title="Facebook" alt="Facebook" width="40" height="40"/>&nbsp;
 </span>
+
+---
+
+### 🔥 &nbsp; My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=correi-f&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
