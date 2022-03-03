@@ -13,6 +13,15 @@
 
 ---
 
+### 📜 &nbsp;Certification :
+<span>
+  <img src="https://static.scrum.org/web/badges/badge-psmi.svg" title="PSM 1" alt="PSM 1 Certification" width="80" height="80"/>&nbsp;
+  <img src="https://images.credly.com/size/340x340/images/8520da4f-b343-41f7-9b0a-f032dccaa113/sa_badge.png" title="SAFe® 4" alt="Scaled Agile Certification" width="80" height="80"/>&nbsp;
+  <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Cloud-Practitioner_512x512.bc006f14f986fa4f3ca238b0b62be458ce1fb5ce.png" title="AWS Cloud Practitioner" alt="AWS Cloud Practitioner Certification" width="80" height="80"/>&nbsp;
+</span>
+
+---
+
 ### 🛠 &nbsp;Languages and Frameworks :
 
 <span>
